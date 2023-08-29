@@ -10,3 +10,4 @@ Repositorio de actividades del curso de Sistemas Operativos 1
 - [`🖥 Actividad 1`](./actividad1)
 - [`🗒 Actividad 2`](./actividad2/)
 - [`👥 Actividad 3`](./actividad3/)
+- [`🗒 Actividad 4`](./actividad4/)
